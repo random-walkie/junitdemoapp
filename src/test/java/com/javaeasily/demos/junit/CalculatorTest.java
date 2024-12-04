@@ -32,7 +32,7 @@ public class CalculatorTest {
     }
 
     @Test
-    public void testAddZerotoPositiveNumbers() {
+    public void testAddZerotoPositiveNumber() {
         // arrange
         int a = 10;
         int b = 0;
